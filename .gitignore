@@ -1,0 +1,5 @@
+node_modules
+hardhat/0x*.txt
+mnemonic.txt
+workshop_tools
+workshop_flies
