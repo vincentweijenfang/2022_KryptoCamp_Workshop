@@ -1,5 +1,19 @@
 # KryptoCamp Homework - NFT Site 
 
+> **GitHub 的問題**
+
+> 1. 10.14.? 以前的 OS 版本無法使用 Fork.app
+> 解法：https://github.com/fork-dev/Tracker/issues/611
+> ```
+> dyld: Library not loaded: @rpath/libswiftAppKit.dylib
+> Referenced from: /usr/local/bin/fork
+> Reason: image not found
+> ```
+
+> 2. Please use a personal access token
+> [建立 Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+> 接著左上角 Fork -> Account -> 使用 Token 登入 github
+
 此範例使用自動化工具 [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth) 建置
 
 **參考連結：**
